@@ -1,0 +1,19 @@
+{
+  "name": "SoftUniDownloader",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "cheerio": "0.22.0",
+    "cookie-parser": "1.4.3",
+    "express": "4.14.0",
+    "express-session": "1.14.2",
+    "hbs": "4.0.1",
+    "passport": "0.3.2",
+    "path": "0.12.7",
+    "url-download": "0.0.8"
+  }
+}
